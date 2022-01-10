@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+`python
+#This is a code line
+def myfunction():
+    print(´Hello world´)
+`
 Use the left arrow to go back!
